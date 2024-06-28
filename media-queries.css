@@ -26,7 +26,7 @@
     .nav-links.active {
         left: 0;
         top:150px;
-        transition:0.5s ease-in-out;
+        transition:0.5s linear;
     }
 
     .nav-links ul {
